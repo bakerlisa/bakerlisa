@@ -5,6 +5,9 @@
 - I've worked as a Web Developmer for 7 years
 - Balchors Degree in Graphic Design from Utah State University
 
+Reach Me:
+https://www.linkedin.com/in/lisa-broadhead/
+
 <!---
 lisabroadhead/lisabroadhead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
