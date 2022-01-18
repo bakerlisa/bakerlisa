@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lisabroadhead
 - 👀 I’m interested software development
 - 🌱 I’m currently learning Java, Python, C++, MERN
+  - Very Competent in: Javascript/jQuery, CSS, HTML, and PHP.
 - 💞️ I’m looking to collaborate on Outdoor type projects
 - I've worked as a Web Developmer for 7 years
 - Balchors Degree in Graphic Design from Utah State University
