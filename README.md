@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lisabroadhead
-- 👀 I’m interested in front end development and software development
+- 👀 I’m interested software development
 - 🌱 I’m currently learning Java, Python, C++, MER
 - 💞️ I’m looking to collaborate on Outdoor type projects
 
