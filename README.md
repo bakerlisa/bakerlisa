@@ -1,4 +1,4 @@
-![](https://github.com/lisabroadhead/me.png)
+![](https://github.com/lisabroadhead/lisabroadhead/blob/main/me.png)
 
 - 👋 Hi, I’m @lisabroadhead
 - 👀 I’m interested software development
