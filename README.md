@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java, Python, C++, MERN
 - 💞️ I’m looking to collaborate on Outdoor type projects
 - I've worked as a Web Developmer for 7 years
+- Balchors Degree in Graphic Design from Utah State University
 
 <!---
 lisabroadhead/lisabroadhead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
