@@ -8,8 +8,6 @@
 - I've worked as a Web Developmer for 7 years
 - Balchors Degree in Graphic Design from Utah State University
 
-More Projects: https://codepen.io/broadhead_lisa/pen/qQmEpE
-
 Reach Me:
 https://www.linkedin.com/in/lisa-broadhead/
 
