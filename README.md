@@ -14,7 +14,8 @@ Reach Me:
 https://www.linkedin.com/in/lisa-broadhead/
 
 Fun Fact:
-Advid reader! I've a goal to 65 books this year
+Advid reader! 
+
 
 <!---
 lisabroadhead/lisabroadhead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
