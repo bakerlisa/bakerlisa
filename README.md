@@ -1,4 +1,4 @@
-![](https://github.com/lisabroadhead/lisabroadhead/blob/main/me.png)
+![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png)
 
 - 👀 I’m wanting a job in software development
 - 🌱 I’m currently learning Java, Python, C++, and MERN
