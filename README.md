@@ -9,11 +9,7 @@
 - Balchors Degree in Graphic Design from Utah State University
 
 Reach Me:
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
-  
 https://www.linkedin.com/in/lisa-broadhead/
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 Fun Fact:
 Advid reader! 
