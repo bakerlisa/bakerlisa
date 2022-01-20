@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, Python, C++, and MERN
 - 💞️ I’m looking to collaborate on Outdoor type projects
 - 💪 I've worked as a Web Developmer for 7 years
-- 📖 Balchors Degree in Graphic Design from Utah State University
+- 🎓 Balchors Degree in Graphic Design from Utah State University
 
 <p>LANGUAGES:</p>
 <div class="languages-wrap" style="display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;">
