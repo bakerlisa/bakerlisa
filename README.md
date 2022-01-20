@@ -1,6 +1,5 @@
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/me.png)
 
-- 👋 Hi, I’m Lisa
 - 👀 I’m wanting a job in software development
 - 🌱 I’m currently learning Java, Python, C++, and MERN
 - 💞️ I’m looking to collaborate on Outdoor type projects
