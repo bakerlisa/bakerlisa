@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/lisa-broadhead/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <style> 
-  .languages-wrap{display: flex; align-items: center;justify-content: center;flex-wrap: wrap;}
+  .languages-wrap{display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;}
 </style>
 
 
