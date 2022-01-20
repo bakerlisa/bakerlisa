@@ -8,7 +8,7 @@
 - I've worked as a Web Developmer for 7 years
 - Balchors Degree in Graphic Design from Utah State University
 
-Reach Me:
+<br/>
 <a href="https://www.linkedin.com/in/lisa-broadhead/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
