@@ -11,8 +11,7 @@
 <div class="languages-wrap" style="display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></div>
 
-<p>CONTACT ME:</p>
-<br/>
+<p style="margin-top:25px;">CONTACT ME:</p>
 <a href="https://www.linkedin.com/in/lisa-broadhead/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
