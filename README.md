@@ -1,6 +1,6 @@
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png)
 
-I consider myself to be a normal individual, smart, fun individual, but I've been told otherwise! Till you meet me, I guess you'll have to decide for youself based on my profile!
+I consider myself to be a normal, smart, fun individual, but I've been told otherwise! Till you meet me, I guess you'll have to look at my profile and decide for yourself!
 
 
 - 💪 I am a Full Stack Developer with 7 years of professional experience
