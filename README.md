@@ -1,10 +1,12 @@
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png)
 
-- 👀 I’m wanting a job in software development
-- 🌱 I’m currently learning Java, Python, C++, and MERN
-- 💞️ I’m looking to collaborate on Outdoor type projects
-- 💪 I've worked as a Web Developmer for 7 years
-- 🎓 Balchors Degree in Graphic Design from Utah State University
+- 💪 I am a Full Stack Developer with 7 years of professional experience
+- 👀 I will be a software Developer
+- - 🎓 Balchors Degree in Graphic Design from Utah State University
+- 🌱 To do so I'm taing a bootcamp class to learn Java, Python, and MERN while I also learn  C++ and C# - Go big or go home boys!
+
+I just want to code, give me a project, give me a challege, but mostly importantly, give me a chance!
+
 
 <p>LANGUAGES:</p>
 <div class="languages-wrap" style="display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;">
