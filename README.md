@@ -1,9 +1,12 @@
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png)
 
+I consider myself to be a normal individual, smart, fun individual, but I've been told otherwise! Till you meet me, I guess you'll have to decide for youself based on my profile!
+
+
 - 💪 I am a Full Stack Developer with 7 years of professional experience
+- 🎓 Balchors Degree in Graphic Design from Utah State University
 - 👀 I will be a software Developer
-- - 🎓 Balchors Degree in Graphic Design from Utah State University
-- 🌱 To do so I'm taing a bootcamp class to learn Java, Python, and MERN while I also learn  C++ and C# - Go big or go home boys!
+- 🌱 To do so I'm taking a bootcamp class to learn Java, Python, and MERN while I also learn  C++ and C# - Go big or go home boys!
 
 I just want to code, give me a project, give me a challege, but mostly importantly, give me a chance!
 
