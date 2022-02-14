@@ -6,7 +6,8 @@ I consider myself to be a normal, smart, fun individual, but I've been told othe
 - 💪 I am a Full Stack Developer with 7 years of professional experience
 - 🎓 Balchors Degree in Graphic Design from Utah State University
 - 👀 I will be a software Developer
-- 🌱 To do so I'm taking a bootcamp class to learn Java, Python, and MERN while I also learn  C++- Go big or go home boys!
+- 🌱 To do so I'm taking a bootcamp class to learn Java, Python, MERN 
+-   Other: SQL, Flask, 
 
 I just want to code, give me a project, give me a challege, but mostly importantly, give me a chance!
 
