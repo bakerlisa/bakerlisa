@@ -4,7 +4,7 @@ Hello my fellow coders. Here you will find things I'm working on, things I've wo
 
 About:
 - 💪 I am a Full Stack Developer with 7 years of professional experience
-- 👀 I rock at frontend developmnet...trust me!
+- 🎉 I rock at frontend developmnet...trust me!
 - 🎓 I've a Balchors Degree in Graphic Design from Utah State University
 - 🌱 I'm enrolled at Coding Dojo where I'm learning: Java, Python, MERN 
 -   Other: SQL, Flask, MongoDB, SpringTools
