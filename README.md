@@ -1,17 +1,21 @@
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png)
 
-I consider myself to be a normal, smart, fun individual, but I've been told otherwise! Till you meet me, I guess you'll have to look at my profile and decide for yourself!
+Hello my fellow coders. Here you will find things I'm working on, things I've worked on, and things. 
 
-
+About:
 - 💪 I am a Full Stack Developer with 7 years of professional experience
-- 🎓 Balchors Degree in Graphic Design from Utah State University
-- 👀 I will be a software Developer
-- 🌱 To do so I'm taking a bootcamp class to learn Java, Python, MERN 
--   Other: SQL, Flask, 
+- 👀 I rock at frontend developmnet...trust me!
+- 🎓 I've a Balchors Degree in Graphic Design from Utah State University
+- 🌱 I'm enrolled at Coding Dojo where I'm learning: Java, Python, MERN 
+-   Other: SQL, Flask, MongoDB, SpringTools
 
 
-Education: Coding Dojo
-WebFun: Yello Blet, Pythong - Black Belt
+Education: 
+Coding Dojo
+WebFun: Yello Blet, Python - Black Belt, MERN - Balck Belt, JAVA - TBA
+
+Utah State
+BA - Graphic Design
 
 I just want to code, give me a project, give me a challege, but mostly importantly, give me a chance!
 
