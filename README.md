@@ -30,7 +30,7 @@ I just want to code, give me a project, give me a challege, but mostly important
 
 <br/>
 <p>CONTACT ME:</p>
-<div><a href="https://www.linkedin.com/in/lisa-broadhead/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href"mailto:lb.broadhead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></div>
+<div><a href="https://www.linkedin.com/in/lisa-broadhead/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href"mailto:lb.broadhead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.facebook.com/LisaAra/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a></div>
 
 
 
