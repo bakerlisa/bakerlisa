@@ -1,18 +1,22 @@
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png)
 
-Hello my fellow coders. Here you will find things I'm working on, things I've worked on, and things. 
+Hi I'm Lisa! I've worked as a legit frontend engineer for years, 7 to be exact! But I'm also a full stack software engineer, and I'm currenlt taking a few certifications to become a machine learning engineer! I'm super interested about getting machines to do our work for us! 
 
 About:
-- 💪 I am a Full Stack Developer with 7 years of professional experience
-- 🎉 I rock at frontend developmnet...trust me!
+- 🎨  7 years of professional Frontend experience    
+  * I rock at frontend developmnet...trust me!
 - 🎓 I've a Balchors Degree in Graphic Design from Utah State University
-- 🌱 I'm enrolled at Coding Dojo where I'm learning: Java, Python, MERN 
--   Other: SQL, Flask, MongoDB, SpringTools
+- 🌱 Atttned Coding Dojo where I'm learned full stack in: Java, Python, MERN 
+    * Other: SQL, Flask, MongoDB, SpringTools
+- 🦾 Took it one step further and am becoming a machine learning engineer!  
 
 
 Education: 
-Coding Dojo
-WebFun: Yello Blet, Python - Black Belt, MERN - Balck Belt, JAVA - TBA
+Coding Dojo - Machine Learning Engineer 
+
+Coding Dojo - Full Stack Software Engineer
+WebFun: Yello Blet, Python - Black Belt, MERN - Balck Belt, JAVA - Black 
+(Black are the top scores you can get in the course, yuo have to do extra work they don't teach on class!)
 
 Utah State
 BA - Graphic Design
@@ -26,7 +30,7 @@ I just want to code, give me a project, give me a challege, but mostly important
 
 <br/>
 <p>OTHER</p>
-<div><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></div>
+<div><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)"/></div>
 
 <br/>
 <p>CONTACT ME:</p>
@@ -37,4 +41,5 @@ I just want to code, give me a project, give me a challege, but mostly important
 <!---
 lisabroadhead/lisabroadhead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://github.com/Ileriayo/markdown-badges
 --->
