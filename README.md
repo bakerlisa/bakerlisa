@@ -8,7 +8,7 @@ About:
 - 🎓 I've a Balchors Degree in Graphic Design from Utah State University
 - 🌱 Atttned Coding Dojo where I'm learned full stack in: Java, Python, MERN 
     * Other: SQL, Flask, MongoDB, SpringTools
-- 🦾 Took it one step further and am becoming a machine learning engineer!  
+- 🦾 Taking it one step further to becoming a machine learning engineer!  
 
 
 Education: 
