@@ -21,8 +21,6 @@ WebFun: Yello Blet, Python - Black Belt, MERN - Balck Belt, JAVA - Black
 Utah State
 BA - Graphic Design
 
-I just want to code, give me a project, give me a challege, but mostly importantly, give me a chance!
-
 
 <p>LANGUAGES:</p>
 <div class="languages-wrap" style="display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;">
