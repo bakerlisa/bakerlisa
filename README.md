@@ -1,6 +1,6 @@
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png)
 
-Hi I'm Lisa! I've worked as a legit frontend engineer for years, 7 to be exact! But I'm also a full stack software engineer, and I'm currenlt taking a few certifications to become a machine learning engineer! I'm super interested about getting machines to do our work for us! 
+What's up my people! I'm Lisa and I'm a Software Engeeir, A+ Frontend Developer, and getting a certifcation in Machine Leanring! Since the dawn of time technology has been aroudn to help humans do tasks eaiser. Work smarter not harder! So I'm interested in how I can get machines to do more for me. 
 
 About:
 - 🎨  7 years of professional Frontend experience    
