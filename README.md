@@ -5,9 +5,9 @@ What's up my people! I'm Lisa and I'm a Software Engeeir, A+ Frontend Developer,
 About:
 - 🎨  7 years of professional Frontend experience    
   * I rock at frontend developmnet...trust me!
-- 🎓 I've a Balchors Degree in Graphic Design from Utah State University
-- 🌱 Atttned Coding Dojo where I'm learned full stack in: Java, Python, MERN 
+- 🌱 Coding Dojo Alumni for Software Engineer in 3 full stacks: Java, Python, MERN 
     * Other: SQL, Flask, MongoDB, SpringTools
+- 🎓 I've a Balchors Degree in Graphic Design from Utah State University
 - 🦾 Taking it one step further to becoming a machine learning engineer!  
 
 
