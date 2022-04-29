@@ -7,11 +7,11 @@ I reeeeally want magic to be real. Sometimes I try to move things with my mind..
 Since the dawn of time, technology has been around to make mundane tasks eaiser. Work smarter not harder! #LifeMoto
 
 <p>ABOUT:</p>
-- 🎨  7 years of professional experience - mainly frontend  
-- 🌱 Coding Dojo Alumni for Software Engineer in 3 full stacks: Java, Python, MERN 
-    * Other: SQL, Flask, MongoDB, SpringTools
-- 🎓 I've a Balchors Degree in Graphic Design from Utah State University
-- 🦾 Taking it one step further to becoming a machine learning engineer!  
+- 🎨  7 years of professional experience - mainly frontend<br/>  
+- 🌱 Coding Dojo Alumni for Software Engineer in 3 full stacks: Java, Python, MERN </br>
+    * Other: SQL, Flask, MongoDB, SpringTools<br/>
+- 🎓 I've a Balchors Degree in Graphic Design from Utah State University<br/>
+- 🦾 Taking it one step further to becoming a machine learning engineer!  <br/>
 
 
 EDUCATION: <br/>
