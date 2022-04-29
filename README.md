@@ -1,6 +1,8 @@
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png)
 
-What's up my people! I'm Lisa and I'm a Software Engeeir, Fablous Frontend Developer (so I've been told), and getting a certifcation in Machine Leanring! Since the dawn of time technology has been aroudn to help humans do tasks eaiser. Work smarter not harder! So I'm interested in how I can get machines to do more for me. 
+What's up my people! I'm Lisa and I'm a Software Engeeir, Fablous Frontend Developer (so I've been told), and getting a certifcation in Machine Leanring! Since the dawn of time, technology has been around to help humans do tasks eaiser. Work smarter not harder! So I'm interested in how I can get machines to do more for me.
+
+I reeeeally want magic to be real. Sometimes I try to move things with my mind..just in case. Since coding is "magic" to un-coders, it was an obvious career chice! I also like puszzles, langauges and challenges. I would give all my money up to go to space. But since I won't be able to, I would love to work in the areospace industry. Lastly I want a machine to do my dishes and cook my food, which led me to machine learning! No, I find whats going on in th eML/AI world SO fascinating! I want to know how to do it, so I can take my personally projects to the next level.
 
 About:
 - 🎨  7 years of professional Frontend experience    
