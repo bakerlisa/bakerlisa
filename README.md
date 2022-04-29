@@ -6,7 +6,7 @@ I reeeeally want magic to be real. Sometimes I try to move things with my mind..
 
 Since the dawn of time, technology has been around to make mundane tasks eaiser. Work smarter not harder! #LifeMoto
 
-About:
+<p>ABOUT:</p>
 - 🎨  7 years of professional Frontend experience    
   * I rock at frontend developmnet...trust me!
 - 🌱 Coding Dojo Alumni for Software Engineer in 3 full stacks: Java, Python, MERN 
@@ -15,7 +15,7 @@ About:
 - 🦾 Taking it one step further to becoming a machine learning engineer!  
 
 
-EDUCATION: 
+EDUCATION: <br/>
 Coding Dojo - Machine Learning Engineer 
 
 Coding Dojo - Full Stack Software Engineer
