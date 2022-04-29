@@ -7,8 +7,7 @@ I reeeeally want magic to be real. Sometimes I try to move things with my mind..
 Since the dawn of time, technology has been around to make mundane tasks eaiser. Work smarter not harder! #LifeMoto
 
 <p>ABOUT:</p>
-- 🎨  7 years of professional Frontend experience    
-  * I rock at frontend developmnet...trust me!
+- 🎨  7 years of professional experience - mainly frontend  
 - 🌱 Coding Dojo Alumni for Software Engineer in 3 full stacks: Java, Python, MERN 
     * Other: SQL, Flask, MongoDB, SpringTools
 - 🎓 I've a Balchors Degree in Graphic Design from Utah State University
