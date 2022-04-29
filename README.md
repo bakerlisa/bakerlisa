@@ -14,7 +14,7 @@ Since the dawn of time, technology has been around to make mundane tasks eaiser.
 - 🦾 Taking it one step further to becoming a machine learning engineer!  <br/>
 
 
-EDUCATION: <br/>
+<p>EDUCATION: </p><br/>
 Coding Dojo - Machine Learning Engineer 
 
 Coding Dojo - Full Stack Software Engineer
