@@ -1,6 +1,6 @@
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png)
 
-What's up my people! I'm Lisa and I'm a Software Engeeir, A+ Frontend Developer, and getting a certifcation in Machine Leanring! Since the dawn of time technology has been aroudn to help humans do tasks eaiser. Work smarter not harder! So I'm interested in how I can get machines to do more for me. 
+What's up my people! I'm Lisa and I'm a Software Engeeir, Fablous Frontend Developer (so I've been told), and getting a certifcation in Machine Leanring! Since the dawn of time technology has been aroudn to help humans do tasks eaiser. Work smarter not harder! So I'm interested in how I can get machines to do more for me. 
 
 About:
 - 🎨  7 years of professional Frontend experience    
