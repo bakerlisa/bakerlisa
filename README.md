@@ -15,12 +15,10 @@ About:
 - 🦾 Taking it one step further to becoming a machine learning engineer!  
 
 
-Education: 
+EDUCATION: 
 Coding Dojo - Machine Learning Engineer 
 
 Coding Dojo - Full Stack Software Engineer
-WebFun: Yello Blet, Python - Black Belt, MERN - Balck Belt, JAVA - Black 
-(Black are the top scores you can get in the course, yuo have to do extra work they don't teach on class!)
 
 Utah State
 BA - Graphic Design
