@@ -33,3 +33,6 @@ lisabroadhead/lisabroadhead is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 https://github.com/Ileriayo/markdown-badges
 --->
+
+"The capacity to learn is a gift. The ability to learn is a skill. The willingness to learn is a choice!"
+-Brain Herbert
