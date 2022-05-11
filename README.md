@@ -1,13 +1,15 @@
 # Ladies and Gentlemen it's time
-To look through my GitHub! Welcome, I am Lisa and a Software Developer, a Fablous Frontend Developer, graphic designer, and gaining a certifcation in Machine Leanring!
+To look through my GitHub account! Welcome, I am Lisa and a Software Developer, a Fabulous Frontend Developer, graphic designer, and gaining a certification in Machine Learning!
 
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png) 
 
-I reeeeally want magic to be real. Sometimes I try to move things with my mind..just in case. Since coding is "magic" to un-coders, it was an obvious career chice! 
+The above image gives you a pretty well rounded view of me! Let’s just say I’m curious, love to laugh, be with my family, work hard, and be outside! 
 
-Since the dawn of time, technology has been around to make mundane tasks eaiser. Work smarter not harder! #LifeMoto
+I reeeeally want magic to be real. Sometimes I try to move things with my mind..just in case. Since coding is "magic" to un-coders, it was an obvious career choice! 
 
-<p>HIGHLIGHTS:</p>
+Since the dawn of time, technology has been around to make mundane tasks easier. Work smarter not harder! #LifeMoto
+
+<p>PERSONAL HIGHLIGHTS:</p>
 - 🎨  7 years of professional experience - mainly frontend<br/>  
 - 🌱 Coding Dojo Alumni for Software Engineer in 3 full stacks: Java, Python, MERN </br>
     * Other: SQL, Flask, MongoDB, SpringTools<br/>
@@ -20,7 +22,7 @@ Since the dawn of time, technology has been around to make mundane tasks eaiser.
 <img style="margin-right:5px;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img style="margin-right:5px;"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/><img style="margin-right:5px;"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img style="margin-right:5px;"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/><img style="margin-right:5px;"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></div>
 
 <br/>
-<p>OTHER</p>
+<p>OTHER TECHNOLOGIES:</p>
 <div><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)"/></div>
 
 <br/>
