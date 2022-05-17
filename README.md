@@ -17,8 +17,8 @@ Since the dawn of time, technology has been around to make mundane tasks easier.
 - 🦾 Taking it one step further to becoming a machine learning engineer!  <br/>
 
 <br/>
-<p>Machine Learning:</p>
-<div class="languages-wrap" style="display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;"><img src="![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) "/></div>
+<p>MACHINE LEARNING:</p>
+<div class="languages-wrap" style="display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></div>
 
 <br/>
 <p>MAJOR LANGUAGES:</p>
