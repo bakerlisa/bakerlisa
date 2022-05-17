@@ -9,7 +9,7 @@ I reeeeally want magic🪄 to be real. Sometimes I try to move things with my mi
 Since the dawn of time, technology has been around to make mundane tasks easier. Work smarter not harder! #LifeMoto This moto combined with my love of code led me to machine learning. The idea that machines can compute data faster then I can blink it astounding. I want to explore the mysteries of the world  through machine learning.
 
 
-<p>PERSONAL HIGHLIGHTS:</p>
+<p><strong>PERSONAL HIGHLIGHTS:</strong></p>
 - 🎨  7 years of professional experience <br/>  
 - 🌱 Coding Dojo Alumni for Software Engineer in 3 full stacks: Java, Python, MERN, SQL, and a LOT of other lovely techologies! </br>
 - 🎓 I've a Balchors Degree in Graphic Design from Utah State University<br/>
