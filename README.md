@@ -36,7 +36,7 @@ Since the dawn of time, technology has been around to make mundane tasks easier.
 - 2022: Coding Dojo - Machine Learning<br/>
 - 2022: Coding Dojo - Software Engineer<br/>
 - 2015: Orignally Self Taught in coding<br/>
-- 2015: Bachlors degree - Utah State Unversity - Graphic Design
+- 2015: Bachlors degree - Utah State Unversity - Graphic Design<br/>
 
 <br/>
 <p>CONTACT ME:</p>
