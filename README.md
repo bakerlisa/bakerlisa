@@ -31,6 +31,14 @@ Since the dawn of time, technology has been around to make mundane tasks easier.
 <div><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)"/></div>
 
 <br/>
+<p>EDUCATION:</p>
+- 2022: Udemy - TensorFlow
+- 2022: Coding Dojo - Machine Learning
+- 2022: Coding Dojo - Software Engineer
+- 2015: Orignally Self Taught in coding
+- 2015: Bachlors degree - Utah State Unversity - Graphic Design
+
+<br/>
 <p>CONTACT ME:</p>
 <div><a href="https://www.linkedin.com/in/lisa-broadhead/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href"mailto:lb.broadhead@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.facebook.com/LisaAra/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a></div>
 
