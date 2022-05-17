@@ -1,5 +1,4 @@
-# Ladies and Gentlemen iiiiit's time!
-To look through my GitHub account! Welcome, I am Lisa and a Software Developer, a Fabulous Frontend Developer, graphic designer, and gaining a certification in Machine Learning!
+# Ladies and Gentlemen iiiiit's time! To look through my GitHub account🎉🎉🎉
 
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png) 
 
