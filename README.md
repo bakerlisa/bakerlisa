@@ -18,7 +18,8 @@ Since the dawn of time, technology has been around to make mundane tasks easier.
 
 <br/>
 <p>MACHINE LEARNING:</p>
-<div class="languages-wrap" style="display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></div>
+<div class="languages-wrap" style="display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></div>
+
 
 
 <br/>
