@@ -10,16 +10,14 @@ I reeeeally want magic to be real. Sometimes I try to move things with my mind..
 Since the dawn of time, technology has been around to make mundane tasks easier. Work smarter not harder! #LifeMoto
 
 <p>PERSONAL HIGHLIGHTS:</p>
-- 🎨  7 years of professional experience - mainly frontend<br/>  
-- 🌱 Coding Dojo Alumni for Software Engineer in 3 full stacks: Java, Python, MERN </br>
-    * Other: SQL, Flask, MongoDB, SpringTools<br/>
+- 🎨  7 years of professional experience <br/>  
+- 🌱 Coding Dojo Alumni for Software Engineer in 3 full stacks: Java, Python, MERN, SQL, and a LOT of other lovely techologies! </br>
 - 🎓 I've a Balchors Degree in Graphic Design from Utah State University<br/>
 - 🦾 Taking it one step further to becoming a machine learning engineer!  <br/>
 
 <br/>
 <p>MACHINE LEARNING:</p>
 <div class="languages-wrap" style="display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></div>
-
 
 
 <br/>
