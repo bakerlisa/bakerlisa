@@ -6,7 +6,7 @@ The above image gives you a pretty well rounded view of me! Let’s just say I�
 
 I reeeeally want magic🪄 to be real. Sometimes I try to move things with my mind...just in case. Since coding is "magic" to un-coders, it was an obvious career choice! 
 
-Since the dawn of time, technology has been around to make mundane tasks easier. Work smarter not harder! #LifeMoto This moto combined with my love of code led me to machine learning. The idea that machines can compute data faster then I can blink it astounding. I want to better the world with code.
+Since the dawn of time, technology has been around to make mundane tasks easier. Work smarter not harder! #LifeMoto This moto combined with my love of code led me to machine learning. The idea that machines can compute data faster then I can blink it astounding. I want to explore the mysteries of the world  through machine learning.
 
 
 <p>PERSONAL HIGHLIGHTS:</p>
