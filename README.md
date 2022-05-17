@@ -32,7 +32,7 @@ Since the dawn of time, technology has been around to make mundane tasks easier.
 <br/>
 <p>EDUCATION:</p>
 - OnGoing: Udemy - TensorFlow<br/>
-- OnGoing: Coding Dojo - Machine Learning / Data Scient <br/>
+- OnGoing: Coding Dojo - Machine Learning / Data Science <br/>
 - 2022: Coding Dojo - Software Engineer<br/>
 - 2015: Orignally Self Taught in coding<br/>
 - 2015: Bachlors degree - Utah State Unversity - Graphic Design<br/>
