@@ -1,4 +1,4 @@
-# Ladies and Gentlemen iiiiit's time! To indulge in my account 🎉🎉
+# Ladies and Gentlemen, iiiiit's time! To indulge in my account 🎉🎉
 
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png) 
 
