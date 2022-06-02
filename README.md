@@ -29,8 +29,11 @@ Since the dawn of time, technology has been around to make mundane tasks easier.
 <div><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)"/><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/><img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></div>
 
 <br/>
-<p><strong>EDUCATION:</strong></p>
+<p><strong>Certification:</strong></p>
 - <strong>OnGoing:</strong> Udemy - TensorFlow<br/>
+
+<br/>
+<p><strong>EDUCATION:</strong></p>
 - <strong>OnGoing:</strong> Coding Dojo - Machine Learning / Data Science <br/>
 - <strong>2022:</strong> Coding Dojo - Software Engineer<br/>
 - <strong>2015:</strong> Orignally Self Taught in coding<br/>
