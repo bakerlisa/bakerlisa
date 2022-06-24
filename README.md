@@ -2,11 +2,7 @@
 
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png) 
 
-The above image gives you a pretty well rounded view of me! Let’s just say I’m curious, love to laugh, be with my family, work hard, and be outside! 
-
-I reeeeally want magic🪄 to be real. Sometimes I try to move things with my mind...just in case. Since coding is "magic" to un-coders, it was an obvious career choice! 
-
-Since the dawn of time, technology has been around to make mundane tasks easier. Work smarter not harder! #LifeMoto This moto combined with my love of code led me to machine learning. The idea that machines can compute data faster then I can blink it astounding. I want to explore the mysteries of the world  through machine learning.
+Since the dawn of time, technology has been around to make mundane tasks easier. Work smarter not harder! #LifeMoto This moto combined with my love of code led me to machine learning. The idea that machines can compute data faster then I can blink it astounding. I want to explore the mysteries of the world  through machine learning and bring those applications into my web and software projects.
 
 
 <p><strong>PERSONAL HIGHLIGHTS:</strong></p>
