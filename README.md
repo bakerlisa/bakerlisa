@@ -9,7 +9,6 @@ Since the dawn of time (Play dramatic music in the background!!), technology has
 - 🎨  7 years of professional experience <br/>  
 - 🌱 Coding Dojo Alumni for Software Engineer in 3 full stacks: Java, Python, MERN, SQL, and a LOT of other lovely techologies! </br>
 - 🎓 I've a Balchors Degree in Graphic Design from Utah State University<br/>
-- 🦾 Taking it one step further to becoming a machine learning engineer!  <br/>
 
 <br/>
 <p><strong>MAJOR LANGUAGES:</strong></p>
