@@ -20,17 +20,7 @@ Since the dawn of time (Play dramatic music in the background!!), technology has
 <div><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)"/><img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/></div>
 
 <br/>
-<p><strong>MACHINE LEARNING:</strong></p>
-<div class="languages-wrap" style="display: flex; align-items: center;justify-content: center;flex-wrap: wrap; gap: 2px;"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></div>
-
-
-<br/>
-<p><strong>Certification:</strong></p>
-- <strong>OnGoing:</strong> Udemy - TensorFlow<br/>
-
-<br/>
 <p><strong>EDUCATION:</strong></p>
-- <strong>OnGoing:</strong> Coding Dojo - Machine Learning / Data Science <br/>
 - <strong>2022:</strong> Coding Dojo - Software Engineer<br/>
 - <strong>2015:</strong> Orignally Self Taught in coding<br/>
 - <strong>2015:</strong> Bachlors degree - Utah State Unversity - Graphic Design<br/>
