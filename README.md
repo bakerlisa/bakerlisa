@@ -2,7 +2,7 @@
 
 ![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png) 
 
-Since the dawn of time (Play dramatic music in the background!!), technology has been around to make mundane tasks easier. Work smarter not harder! #LifeMoto This moto combined with my love of code led me to machine learning. The idea that machines can compute data faster then I can blink it astounding. I want to explore the mysteries of the world  through machine learning and bring those applications into my web and software projects.
+Since the dawn of time (Play dramatic music in the background!!), technology has been around to make mundane tasks easier. I love making these technologies. I've always loved codes. When I was a kid I use to make up my own languages and cyphers. When I found programing I felt like a kid again! Once again immersed in a world of the unknown!
 
 
 <p><strong>PERSONAL HIGHLIGHTS:</strong></p>
