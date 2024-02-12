@@ -1,4 +1,4 @@
-![](https://github.com/bakerlisa/bakerlisa/blob/main/294667162_10159916569625795_4786889437515799169_n.jpeg) 
+![](https://github.com/bakerlisa/bakerlisa/blob/main/fiber-4814456_1280.jpg 
 
 I like a challenge and to learn. As a kid I created my own secret langauges, written and spoken. I've always loved pussles and building things with my hands. So when I found software engineering, it was a lot like pair chocolate with strawberries!
 
